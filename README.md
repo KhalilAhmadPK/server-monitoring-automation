@@ -87,7 +87,7 @@ sudo hostnamectl set-hostname devops-server
 ### 4. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/server-monitoring-automation.git
+git clone https://github.com/KhalilAhmadPK/server-monitoring-automation.git
 cd server-monitoring-automation
 chmod +x scripts/*.sh
 ```
@@ -243,7 +243,7 @@ This is the first project in a longer DevOps learning roadmap I'm working throug
 
 Built by someone who got tired of doing server maintenance manually.
 
-**[Khalil Ahmad]** — [GitHub](https://github.com/KhalilAhmadPK) · [LinkedIn](https://linkedin.com/in/KhalilAhmadPK)
+**[Khalil Ahmad]** — [GitHub](https://github.com/KhalilAhmadPK) · [LinkedIn](https://linkedin.com/in/)
 
 ---
 
