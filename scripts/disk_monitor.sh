@@ -6,8 +6,8 @@
 # ================================================
 
 THRESHOLD=80
-LOG_FILE="/home/$USER/scripts/disk_report.log"
-ALERT_FILE="/home/$USER/scripts/disk_alerts.log"
+LOG_FILE="/home/$USER/server-monitoring-automation/scripts/disk_report.log"
+ALERT_FILE="/home/$USER/server-monitoring-automation/scripts/disk_alerts.log"
 
 echo "Disk Check: $(date)" >> "$LOG_FILE"
 
