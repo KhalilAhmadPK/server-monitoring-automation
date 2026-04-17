@@ -44,7 +44,6 @@ server-monitoring-automation/
 │   ├── disk_monitor.sh      # Check usage, alert at 80% threshold
 │   └── backup.sh            # Daily snapshot with retention policy
 │
-├── crontab.txt              # Full cron schedule, ready to import
 └── README.md
 ```
 
