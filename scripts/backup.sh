@@ -8,7 +8,7 @@ BACKUP_DIR="/home/$USER/backups"
 SOURCE_DIRS=("/home/$USER/scripts" "/etc/crontab")
 DATE=$(date +%Y-%m-%d_%H-%M)
 BACKUP_FILE="$BACKUP_DIR/backup_$DATE.tar.gz"
-LOG_FILE="/home/$USER/scripts/backup_report.log"
+LOG_FILE="/home/$USER/server-monitoring-automation/scripts/backup_report.log"
 RETENTION_DAYS=7
 
 # Make backup dir
