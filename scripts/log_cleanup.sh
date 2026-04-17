@@ -9,7 +9,7 @@
 LOG_DIR="/var/log"
 ARCHIVE_DIR="/home/$USER/log_archives"
 DAYS_OLD=7
-LOG_FILE="/home/$USER/scripts/cleanup_report.log"
+LOG_FILE="/home/$USER/server-monitoring-automation/scripts/cleanup_report.log"
 
 # Create Archive dir if not exists
 mkdir -p "$ARCHIVE_DIR"
