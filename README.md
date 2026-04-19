@@ -240,10 +240,6 @@ This is the first project in a longer DevOps learning roadmap I'm working throug
 
 ## Author
 
-Built by someone who got tired of doing server maintenance manually.
-
 **[Khalil Ahmad]** — [GitHub](https://github.com/KhalilAhmadPK) · [LinkedIn](https://linkedin.com/in/)
 
 ---
-
-*Part of a 30-project DevOps learning roadmap.*
